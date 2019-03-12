@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Spreadsheet Analysis
-Code to access Google SpreadSheet API and allow the extraction of metrics. 
+Code to access Google Spreadsheet API and allow the extraction of information about the Spreadsheet. 
 
 ## Execution
 
